@@ -1,3 +1,5 @@
+# Leave out data directory
+/data
 
 # History files
 .Rhistory
