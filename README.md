@@ -1,2 +1,2 @@
 # VegRanger
-Veg type predictions in rangelands
+Viewer for veg type predictions in rangelands.
